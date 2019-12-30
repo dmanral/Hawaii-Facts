@@ -1,0 +1,22 @@
+GetNewFactIntent a fact
+GetNewFactIntent a Hawaii fact
+GetNewFactIntent a Hawaiian fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a Hawaii fact
+GetNewFactIntent tell me a Hawaiian fact
+GetNewFactIntent tell me another one
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a Hawaii fact
+GetNewFactIntent give me a Hawaiian fact
+GetNewFactIntent give me another one
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a Hawaii trivia
+GetNewFactIntent tell me a Hawaiian trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a Hawaii trivia
+GetNewFactIntent give me a Hawaiian trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some Hawaii information
+GetNewFactIntent give me some Hawaiian information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
